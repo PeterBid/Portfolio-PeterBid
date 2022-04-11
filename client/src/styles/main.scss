@@ -1,0 +1,23 @@
+@import '../../node_modules/bootstrap/scss/functions';
+@import '../../node_modules/bootstrap/scss/variables';
+
+@import './components/home';
+
+* {
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+.fixed-top-nav {
+  position: fixed;
+  top: 0;
+  z-index: 999;
+}
+
+// .site-wrapper {
+//   display: flex;
+//   flex-direction: column;
+//   justify-content: space-between;
+//   min-height: 100vh;
+// }
+

@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Barlow+Condensed:ital,wght@0,500;1,500&family=Source+Code+Pro:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Barlow+Condensed:ital,wght@0,500;1,500&family=Poppins:wght@500&family=Source+Code+Pro:wght@500&display=swap');
+
+
+.logo-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1400px;
+  max-height: 1400px;
+  border-radius: 10px;
+}
+
+
+.logo {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 10px;
+}
+
+.display-3 {
+  font-family: 'Poppins', sans-serif;
+  overflow: hidden;
+}
+
+.display-5{
+  font-family: 'Poppins', sans-serif;
+  overflow: hidden;
+}
+
+#home-container{
+  display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: nowrap;
+    flex-direction: row-reverse;
+    padding-top: 100px;
+}
+
+
+.about-wrapper{
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: center;
+    align-items: center;
+    padding: 35px;
+}
+
+#about-container{
+  padding: 50px 10% 15px;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+#skills-container{
+  padding: 50px 10% 15px;
+  padding-bottom: 100px;
+}
+
+.skills-wrapper{
+    display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-content: stretch;
+      justify-content: center;
+      align-items: center;
+      padding: 35px;
+      padding-top: 80px;
+}
+
+.card-body{
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+.cardtext{
+  font-family: 'Poppins', sans-serif;
+  overflow: hidden;
+  font-size: 26px
+}
+
+
+.card{
+  border: 0px;
+  margin-left: 50px;
+  margin-right: 50px;
+  max-width: 100%;
+  max-height: 100%;
+
+}
+
+.skillslogo-wrapper{
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: center;
+}
+
+#projects-container{
+  padding: 50px 10% 15px;
+  padding-bottom: 100px;
+}
+
+.projects-wrapper{
+    display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-content: stretch;
+      justify-content: center;
+      align-items: center;
+      padding: 35px;
+      
+}
+
+
+.demo-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1400px;
+  max-height: 1400px;
+  border-radius: 10px;
+}
+
+
+.demo {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 10px;
+}
+
+.sitelink{
+  text-decoration: none;
+  color: black;
+}
+
+.demologo-wrapper{
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: center;
+    padding-bottom: 65px;
+}
+
+#interests-container{
+  padding: 50px 10% 15px;
+  padding-bottom: 100px;
+}
+
+.interests-wrapper{
+    display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-content: stretch;
+      justify-content: center;
+      align-items: center;
+      padding: 35px;
+      
+}
+
+#contact-container{
+  padding: 50px 10% 15px;
+  padding-bottom: 100px;
+}
+
+.contact-wrapper{
+    display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-content: stretch;
+      justify-content: center;
+      align-items: center;
+      padding: 35px;
+      
+}
+
+.hobbies-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 1400px;
+  max-height: 1400px;
+  border-radius: 10px;
+}
+
+
+.hobbyvid {
+  max-width: 700px;
+  max-height: 700px;
+  border-radius: 10px;
+}
