@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-peterbid",
+  "version": "1.0.0",
+  "description": "My Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterBid/Portfolio-PeterBid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterBid/Portfolio-PeterBid/issues"
+  },
+  "homepage": "https://github.com/PeterBid/Portfolio-PeterBid#readme"
+}
