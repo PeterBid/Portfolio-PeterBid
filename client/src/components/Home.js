@@ -1,7 +1,6 @@
 import React from 'react'
 
 import PeterWelcomeImg from '../images/peterwelcomegif.gif'
-import PeterWelcomeVid from '../images/portfoliowelcome6.gif'
 import ViviDemo4 from '../images/ViviDemo4.gif'
 import RickDemo2 from '../images/RickDemo2.gif'
 import EsperantoDemo4 from '../images/EperantoDemo4.gif'
@@ -37,13 +36,7 @@ import HerokuGif from '../images/Heroku.gif'
 
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
-import Col from 'react-bootstrap/Col'
 import Card from 'react-bootstrap/Card'
-import Form from 'react-bootstrap/Form'
-import Button from 'react-bootstrap/Button'
-import Carousel from 'react-bootstrap/Carousel'
-import Stack from 'react-bootstrap/Stack'
-import Image from 'react-bootstrap/Image'
 import Fade from 'react-reveal/Fade';
 
 
