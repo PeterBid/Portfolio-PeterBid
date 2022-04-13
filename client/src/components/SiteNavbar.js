@@ -11,7 +11,7 @@ const SiteNavbar = () => {
   return (
     <Navbar className='fixed-top-nav' bg="dark" variant="dark" fixed="top">
     <Container>
-    <Navbar.Brand href="/">Back to Top</Navbar.Brand>
+    <Navbar.Brand href="/">Peter Bid</Navbar.Brand>
     <Nav className="me-auto">
       <Nav.Link href="#aboutme">About Me</Nav.Link>
       <Nav.Link href="#skills">Skills</Nav.Link>

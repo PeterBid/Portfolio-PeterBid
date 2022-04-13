@@ -1,18 +1,18 @@
 import React from 'react'
-import { HashRouter, Routes, Route } from 'react-router-dom'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Home from './components/Home'
-// import SiteNavbar from './components/SiteNavbar'
+import SiteNavbar from './components/SiteNavbar'
 
 
 function App() {
   return (
     <div className="site-wrapper">
-      <HashRouter>
-      {/* <SiteNavbar /> */}
+      <BrowserRouter>
+      <SiteNavbar />
         <Routes>
           <Route path="/" element={<Home />} />
         </Routes>
-      </HashRouter>
+      </BrowserRouter>
       </div>
   )
 }
